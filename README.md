@@ -28,7 +28,7 @@ Exploratory data analysis includes:
 -> Correlation between listings, # of reviews and prices
 
 -> Map of listings and prices
-
+Median Blog  Link - https://medium.com/@rahulpathak263/amsterdam-airbnb-data-analysis-6321612a3f89?sk=7ee2563faf6ff2aceb61d091335a0356
 
 
 
